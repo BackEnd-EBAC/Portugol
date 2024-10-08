@@ -1,0 +1,14 @@
+Algoritmo de acordar
+
+1 - ouço o despertador despertar
+2 - desligo o alarme do despertador
+3 - espreguiço na cama
+4 - quero dormir mais, vou levantar agora ou não? Sim
+    1 - me descubro
+    2 - me sento na cama
+    3 - fico de pé
+    4 - caminho até o banheiro
+    5 - vou até a cozinha para preparar meu café da manhã
+5 - não
+    1 - me ajeito na cama de uma forma confortável
+    2 - volto a dormir
